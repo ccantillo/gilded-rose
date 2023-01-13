@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Aged Brie",
+        "SellIn": 5,
+        "Quality": 0,
+        "created_date": "01/01/2023",
+        "status": "ON_INVENTORY"
+    },
+    {
+        "type": "Aged Brie",
+        "SellIn": 8,
+        "Quality": 2,
+        "created_date": "13/01/2023",
+        "status": "ON_INVENTORY"
+    },
+    {
+        "type": "Sulfuras",
+        "SellIn": 8,
+        "Quality": 2,
+        "created_date": "13/01/2023",
+        "status": "ON_INVENTORY"
+    },
+    {
+        "type": "Backstage passes",
+        "SellIn": 8,
+        "Quality": 2,
+        "created_date": "13/01/2023",
+        "status": "ON_INVENTORY"
+    },
+    {
+        "type": "Conjured",
+        "SellIn": 8,
+        "Quality": 2,
+        "created_date": "13/01/2023",
+        "status": "ON_INVENTORY"
+    }
+
+]
